@@ -19,7 +19,7 @@ For over 40 years enthusiastic software developer:
 - Since 1996 married. Focus on Linux, Internet and Security.
 - 1999-2015 software development for publishing house Lübecker Nachrichten.
 - Since 2000 father of twins.
-- Since 2001 project site activebarcode.com.
+- Since 2001 project site [activebarcode.com](https://www.activebarcode.com/).
 - Since 2004 having used other CMS since 2000 I now focused on WordPress with theme tweaking und plugin development.
 - Since 2005 on OS X (later macOS) as my main development machine.
 - Since 2007 focus on Could-Computing IaaS (AWS).
