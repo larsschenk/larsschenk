@@ -19,7 +19,7 @@ For over 40 years enthusiastic software developer:
 - Since 1996 married. Focus on Linux, Internet and Security.
 - 1999-2015 software development for publishing house Lübecker Nachrichten.
 - Since 2000 father of twins.
-- Since 2001 project site [activebarcode.com](https://www.activebarcode.com/).
+- Since 2001 [activebarcode.com](https://www.activebarcode.com/).
 - Since 2004 having used other CMS since 2000 I now focused on WordPress with theme tweaking und plugin development.
 - Since 2005 on OS X (later macOS) as my main development machine.
 - Since 2007 focus on Could-Computing IaaS (AWS).
@@ -36,6 +36,7 @@ Still loving Vim with tmux & mosh.
 - 2017 Amazon Alexa Skill Development.
 - ... Sorry, no time to keep this list updated. And still so many new stuff to learn... 
 - My [linkedIn profile](https://www.linkedin.com/in/larsschenk) is outdated, too.
+- Since 2022 heavily into Cloudflare with [Pages](https://pages.cloudflare.com/), [Workers](https://workers.cloudflare.com/), [R2](https://www.cloudflare.com/products/r2/) and [KV](https://www.cloudflare.com/products/workers-kv/).
 
 <!---
 larsschenk/larsschenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
