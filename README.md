@@ -37,7 +37,7 @@ Still loving Vim with tmux & mosh.
 - ... Sorry, no time to keep this list updated. And still so many new stuff to learn... 
 - My [linkedIn profile](https://www.linkedin.com/in/larsschenk) is outdated, too.
 - Since 2022 heavily into Cloudflare with [Pages](https://pages.cloudflare.com/), [Workers](https://workers.cloudflare.com/), [R2](https://www.cloudflare.com/products/r2/) and [KV](https://www.cloudflare.com/products/workers-kv/).
-- 2023 my personal website and blog has been retired and archived. It has served me well from 2000 to 2022: [old.lars-schenk.com](https://old.lars-schenk.com/)
+- 2000-2023 my website and blog has been retired and archived: [old.lars-schenk.com](https://old.lars-schenk.com/)
 
 <!---
 larsschenk/larsschenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
