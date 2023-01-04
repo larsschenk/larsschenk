@@ -39,7 +39,7 @@ Still loving Vim with tmux & mosh.
 - Since 2020 [Reactjs](https://reactjs.org/).
 - Since 2022 heavily into Cloudflare with [Pages](https://pages.cloudflare.com/), [Workers](https://workers.cloudflare.com/), [R2](https://www.cloudflare.com/products/r2/) and [KV](https://www.cloudflare.com/products/workers-kv/).
 - 2000-2023 my website and blog has been retired and archived: [old.lars-schenk.com](https://old.lars-schenk.com/)
-- Since 2023 included ChatGPT in workflow.
+- Since 2023 included ChatGPT into my workflow.
 
 <!---
 larsschenk/larsschenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
