@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning playing electric guitar. 
 - ❤️ ProgRock 🎧 , Guitar 🎸, Keyboard 🎹, Darts 🎯, Inlineskate ⛸, Bike 🚴, Chess ♟, Poker, Kiting, 8bit, V8
 - 💞️ C/C++, JS, php and many more. Mostly working on closed source projects.
-- [📫 ](https://keybase.io/lschenk) Since: 1988 dev, 1994 barcodes, 2007 AWS, 2008 git, 2009 github, 2011 CloudFlare, <strike>2012 heroku</strike>
+- [📫 ](https://keybase.io/lschenk) Since: 1988 dev, 1994 barcodes, 2007 AWS, 2008 git, 2009 github, 2011 CloudFlare, 2012-2025 heroku (migrated to CloudFlare)
 
 For over 40 years enthusiastic software developer:
 - 1968 born in the hanseatic city of Lübeck, Germany.
