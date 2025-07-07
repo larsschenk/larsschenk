@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @larsschenk
 - 👀 I’m interested in solving problems with software.
-- 🌱 I’m currently learning playing electric guitar.
-- 💞️ C/C++, c#, php. Mostly working on closed source projects.
-- [📫 ](https://keybase.io/lschenk) Since: 1988 dev, 1994 barcodes, 2007 AWS, 2008 git, 2009 github, 2012 heroku. 
+- 🌱 I’m currently learning playing electric guitar. 
+- ❤️ ProgRock 🎧 , Guitar 🎸, Keyboard 🎹, Darts 🎯, Inlineskate ⛸, Bike 🚴, Chess ♟, Poker, Kiting, 8bit, V8
+- 💞️ C/C++, php. Mostly working on closed source projects.
+- [📫 ](https://keybase.io/lschenk) Since: 1988 dev, 1994 barcodes, 2007 AWS, 2008 git, 2009 github, 2011 CloudFlare, <strike>2012 heroku</strike>
 
 For over 40 years enthusiastic software developer:
 - 1968 born in the hanseatic city of Lübeck, Germany.
@@ -39,7 +40,9 @@ Still loving Vim with tmux & mosh.
 - Since 2020 [Reactjs](https://reactjs.org/).
 - Since 2022 heavily into Cloudflare with [Pages](https://pages.cloudflare.com/), [Workers](https://workers.cloudflare.com/), [R2](https://www.cloudflare.com/products/r2/) and [KV](https://www.cloudflare.com/products/workers-kv/).
 - 2000-2023 my website and blog has been retired and archived: [old.lars-schenk.com](https://old.lars-schenk.com/)
-- Since 2023 included ChatGPT into my workflow.
+- Since 2023 included ChatGPT and others into my workflow.
+- 2024: After 30 years with Digital River, their insolvency hit me hard. I've happily migrated to FastSpring.
+
 
 <!---
 larsschenk/larsschenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
