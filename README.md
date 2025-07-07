@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems with software.
 - 🌱 I’m currently learning playing electric guitar. 
 - ❤️ ProgRock 🎧 , Guitar 🎸, Keyboard 🎹, Darts 🎯, Inlineskate ⛸, Bike 🚴, Chess ♟, Poker, Kiting, 8bit, V8
-- 💞️ C/C++, php. Mostly working on closed source projects.
+- 💞️ C/C++, JS, php and any more. Mostly working on closed source projects.
 - [📫 ](https://keybase.io/lschenk) Since: 1988 dev, 1994 barcodes, 2007 AWS, 2008 git, 2009 github, 2011 CloudFlare, <strike>2012 heroku</strike>
 
 For over 40 years enthusiastic software developer:
